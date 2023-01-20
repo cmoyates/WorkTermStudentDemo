@@ -1,4 +1,8 @@
+def stuff():
+    print("Stuff")
+
 def main():
+    print("Stuff")
     print("Stuff")
 
 
