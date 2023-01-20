@@ -1,5 +1,5 @@
 def stuff():
-    print("Stuff")
+    print("Stuff2")
 
 def main():
     stuff()
