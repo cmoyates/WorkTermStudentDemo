@@ -2,7 +2,7 @@ def stuff():
     print("Stuff")
 
 def main():
-    print("Stuff")
+    stuff()
     print("Stuff")
 
 
