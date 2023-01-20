@@ -3,6 +3,7 @@ def stuff():
 
 def main():
     stuff()
+    stuff()
     print("Stuff")
 
 
